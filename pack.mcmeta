@@ -1,9 +1,13 @@
 {
 	"pack":{
-		"pack_format":65,
-		"supported_formats": [65,999],
-		"min_format": 65,
-		"max_format": 999,
+		"name": "Sophie UI",
+		"pack_format": 55,
+		"supported_formats": {
+			"min_inclusive": 55,
+			"max_inclusive": 1024
+		},
+		"min_format": 55,
+		"max_format": 1024,
 		"description":"§aMy UI is all Phooey\n§e UI by Bentcheesee"
 	},
 	"resource_pack_id": "SOPHIE_UI"
